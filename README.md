@@ -28,6 +28,10 @@ I'm a 📱 iOS Developer, so:
 
 ### Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrapashka&theme=dark&background=000000)](https://git.io/streak-stats)
+<h1></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/1n3LPr8tsptiIaFUhF/giphy.gif" width="100"/>
+</h1>
 
 
 <!--
