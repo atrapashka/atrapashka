@@ -21,7 +21,7 @@ I'm a 📱 iOS Developer, so:
 - Currently, I'm looking for a job - 🔥 Junior iOS Developer 🔥
 - 1 year experiense in iOS Development
 - Exploring new Swift <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="15"> horizons almost in non-stop rhythm
-- I have a few interesting projects, take a look 👓
+- I have a few interesting projects, take a look
 - Open-minded, mindful, motivated person
 - English B1
 - 📬 atrapashka@gmail.com
