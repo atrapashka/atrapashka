@@ -24,7 +24,7 @@ I'm a 📱 iOS Developer, so:
 - I have a few interesting projects, take a look
 - Open-minded, mindful, motivated person
 - English B1
-- 📬 atrapashka@gmail.com
+- atrapashka@gmail.com
 
 ### Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atrapashka&theme=dark&background=000000)](https://git.io/streak-stats)
