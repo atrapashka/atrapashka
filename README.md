@@ -33,5 +33,5 @@ I'm a 📱 iOS Developer, so:
   <img src="https://media.giphy.com/media/1n3LPr8tsptiIaFUhF/giphy.gif" width="100"/>
 </h1>
 <h1 align="center">
-  Have a good Tuesday, folks!
+  Have a good Wednesday, folks!
 </h1>
